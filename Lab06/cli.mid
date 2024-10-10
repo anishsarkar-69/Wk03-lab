@@ -1,0 +1,12 @@
+ls
+Function: Lists the files and directories in the current working directory.
+Usage: Simply typing ls will display the names of files and directories. You can use options like:
+ls -l: Shows detailed information, including permissions, owner, size, and modification date.
+ls -a: Displays all files, including hidden files (those starting with a dot).
+ls -h: Shows file sizes in a more human-readable format (e.g., KB, MB).
+cat
+Function: Concatenates and displays the contents of files.
+Usage: Typing cat filename will print the contents of that file to the terminal. You can also use it to combine multiple files:
+cat file1 file2 > combined_file: Merges file1 and file2 into combined_file.
+cat -n filename: Displays line numbers along with the content.
+These commands are fundamental for navigating and manipulating files in a Unix-like operating system.

@@ -14,3 +14,5 @@
 * :smiley:
 * :relieved:
 * :alien:
+
+[CLI commands](Lab06/cli.mid)
